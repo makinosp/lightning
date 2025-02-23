@@ -11,7 +11,9 @@
             "version": "os-provided",
             "ppa": "false"
 		},
-		"ghcr.io/nikitakurpas/features/vapor-toolbox:1": {}
+		"ghcr.io/nikitakurpas/features/vapor-toolbox:1": {
+            "version": "18.7.5"
+        }
     },
     "runArgs": [
         "--cap-add=SYS_PTRACE",
